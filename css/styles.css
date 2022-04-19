@@ -141,6 +141,14 @@ html{
   padding: 0;
 }
 
+img{
+  transition: transform .5s;
+}
+
+img:hover {
+  transform: scale(1.1);
+}
+
 .intro{
   margin: auto;
   width: 50%;
