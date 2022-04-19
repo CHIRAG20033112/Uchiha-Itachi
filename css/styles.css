@@ -1,0 +1,206 @@
+a{
+  text-decoration: none;
+  color: #11999E;
+  margin: 1rem;
+  font-size: 1rem;
+}
+
+a:hover{
+  color: #363062;
+}
+
+.About_Itachi_h3{
+  font-size: 2.55rem;
+  font-family: 'Lobster',cursive;
+}
+
+.About_Itachi_images_1{
+  width: 10rem;
+  float: left;
+  margin: 0 2rem;
+}
+
+.About_Itachi_images_2{
+  width: 10rem;
+  float: right;
+  margin: 0 2rem;
+}
+
+.About_Itachi_images_3{
+  width: 10rem;
+  float: left;
+  margin: 0 2rem;
+}
+
+body{
+  color: #40514E;
+  margin: 0;
+  background-color: #FAF5E4;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 1.5rem;
+}
+
+.bottom_container{
+  padding: 2rem;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+  background-color: #66BFBF;
+}
+
+.btn {
+  background: #A1E3D8;
+  background-image: -webkit-linear-gradient(top, #A1E3D8, #005555);
+  background-image: -moz-linear-gradient(top, #A1E3D8, #005555);
+  background-image: -ms-linear-gradient(top, #A1E3D8, #005555);
+  background-image: -o-linear-gradient(top, #A1E3D8, #005555);
+  background-image: linear-gradient(to bottom, #A1E3D8, #005555);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Montserrat',sans-serif;
+  color: #ffffff;
+  font-size: 22px;
+  padding: 10px 22px 10px 22px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #A1E3D8;
+  background-image: -webkit-linear-gradient(top, #A1E3D8, #069A8E);
+  background-image: -moz-linear-gradient(top, #A1E3D8, #069A8E);
+  background-image: -ms-linear-gradient(top, #A1E3D8, #069A8E);
+  background-image: -o-linear-gradient(top, #A1E3D8, #069A8E);
+  background-image: linear-gradient(to bottom, #A1E3D8, #069A8E);
+  text-decoration: none;
+}
+
+.c1{
+  position: absolute;
+  left: 15vw;
+  top: 10vh;
+}
+
+.c2{
+  position: absolute;
+  right: 10vw;
+  top: 25vh;
+}
+
+.contact{
+  color: #001E6C;
+  font-size: 2rem;
+  font-family: 'Square Peg',sans-serif;
+  margin: auto;
+  margin-bottom: 3rem;
+  width: 40%;
+}
+
+h1{
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  /* 100% = 16px = 1rem = 1em */
+  margin: 5vh auto 0 auto;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.heading{
+  background-color: #e4f9f5;
+  padding-top: 20vh;
+  position: relative;
+}
+
+.hello{
+  margin: 1rem auto 0 auto;
+  font-size: 2.8rem;
+  font-family: 'Pacifico',monospace;
+}
+
+hr{
+  margin: 3rem auto;
+  border: none;
+  border-bottom: dotted;
+  border-width: 0.6rem;
+  border-color: gray;
+  width: 5rem;
+}
+
+html{
+  padding: 0;
+}
+
+.intro{
+  margin: auto;
+  width: 50%;
+}
+
+.itha{
+  font-style: italic;
+  font-family: 'Dancing Script',cursive;
+  border: none;
+  border-bottom: double;
+}
+
+.itachi_font{
+  display: inline-block;
+  font-size: 3rem;
+  font-family: 'Caveat',cursive;
+  border: none;
+  border-bottom: double;
+}
+
+.middle_container{
+  margin: 4rem auto;
+}
+
+.mountain{
+  width: 47.8rem;
+}
+
+p{
+  line-height: 2.5rem;
+}
+
+.propic{
+  width: 250px;
+}
+
+
+.sharingan{
+  font-family: 'Pacifico',cursive;
+}
+
+
+.signature{
+  color: #363062;
+  padding: 1rem 0;
+  margin: 0;
+  font-family: 'Square peg', serif;
+  font-size: 20px;
+}
+
+.Rogue{
+  text-decoration: underline;
+}
+
+.skill-row{
+  width: 70%;
+  margin: 3rem auto 8rem auto;
+  text-align: left;
+}
+
+.subtitle{
+  font-family: 'Square Peg','Montserrat',sans-serif;
+}
